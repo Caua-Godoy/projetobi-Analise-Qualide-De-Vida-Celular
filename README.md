@@ -1,4 +1,5 @@
-📊 Screen Time, Sleep and Stress Analysis
+**📊 Screen Time, Sleep and Stress Analysis**
+
   Projeto desenvolvido por Cauã Godoy como parte dos estudos em Análise de Dados e Power BI.
 📌 Sobre o projeto
 
