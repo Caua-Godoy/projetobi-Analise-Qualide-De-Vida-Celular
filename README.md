@@ -1,20 +1,12 @@
 # 📊 Screen Time, Sleep and Stress Analysis
 
   Projeto desenvolvido por Cauã Godoy como parte dos estudos em Análise de Dados e Power BI.
+
 📌 Sobre o projeto
 
 Este projeto consiste em uma análise exploratória de dados (EDA) utilizando um dataset público do Kaggle sobre tempo de uso de celular, sono, estresse e produtividade.
 
 O objetivo foi investigar possíveis relações entre o tempo de tela e indicadores de qualidade de vida, utilizando o Power BI para modelagem e visualização dos dados.
-
-📎 Visualizações
-
-Dashboard – Visão Usuário
-
-Dashboard – Análise por Celular
-
-Dashboard – Análise por Redes Sociais
-
 
 🎯 Pergunta principal
 
